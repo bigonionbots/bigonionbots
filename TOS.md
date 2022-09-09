@@ -2,7 +2,7 @@
 
 Last updated: September 09, 2022
 
-Please read these terms and conditions carefully before using Our Service.
+Please read these terms and conditions carefully before using The Onion Patch price and network bots, including ETH PriceBot#2337.
 
 # Interpretation and Definitions
 
@@ -149,4 +149,4 @@ If you have any questions about these Terms and Conditions, You can contact us:
 
 
 
-- By visiting this page on our website: [https://discord.gg/SgGDVVHwUj](https://discord.gg/SgGDVVHwUj)
+- By visiting this page on our Discord server, The Onion Patch: [https://discord.gg/SgGDVVHwUj](https://discord.gg/SgGDVVHwUj)
