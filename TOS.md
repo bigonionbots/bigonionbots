@@ -1,8 +1,8 @@
 # Terms and Conditions
 
-Last updated: September 09, 2022
+Last updated: September 23, 2022.
 
-Please read these terms and conditions carefully before using The Onion Patch price and network bots, including ETH PriceBot#2337.
+Please read these terms and conditions carefully before using The Onion Patch price and network bots, including ETH PriceBot#2337 and NEOXA Price Bot#2731.
 
 # Interpretation and Definitions
 
@@ -20,21 +20,10 @@ For the purposes of these Terms and Conditions:
 
 - __Country__ refers to: North Carolina,  United States
 - __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to ETH Price Bot.
-
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-
-
-
-
-
-
-
 - __Service__ refers to the Application.
-
-
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [TermsFeed Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
 - __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Acknowledgment
@@ -45,29 +34,9 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
-
 You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
-
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Links to Other Websites
 
@@ -82,7 +51,6 @@ We strongly advise You to read the terms and conditions and privacy policies of 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
-
 
 # Limitation of Liability
 
