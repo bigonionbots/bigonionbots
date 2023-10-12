@@ -2,7 +2,7 @@
 
 Last updated: September 23, 2022.
 
-Please read these terms and conditions carefully before using The Onion Patch price and network bots, including ETH PriceBot#2337 and NEOXA Price Bot#2731.
+Please read these terms and conditions carefully before using The Onion Patch price and network bots, including BTC Price Bot#2919, ETH PriceBot#2337 and NEOXA Price Bot#2731.
 
 # Interpretation and Definitions
 
